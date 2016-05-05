@@ -37,6 +37,10 @@ You should be ready to run the app and connect to the simulator. For the node ap
 
 ### You're Good to Go 
 
-Start experimenting by responding to messages from your Roombot simulator's sensors, and sending it different types of drive messages. 
+Start experimenting by responding to messages from your Roombot simulator's sensors, and sending it different types of drive messages. To get a feel of the messages the roombot is sending you, it's a good idea to `console.log(message)`. 
 
-If you want to learn more about the Roombots, you can check out the official docs: http://roombots.mx.com/ 
+Now that you can drive, see if you can respond to sensor messages and react to them! Check out the [sensors page](http://roombots.mx.com/sensors) and the [docs](http://roombots.mx.com/) for a comprehensive list of sensors and responses. 
+
+### Example
+
+As an example to help you get started, here is what I put in my code. You can see I'm logging out the messages, and I've sett the radius to 0 so the roombot drives straight. Run the app, and watch in your CLI what happens when the roombot gets close to the wall - you'll start to get different types of messages as different sensors fire. 
