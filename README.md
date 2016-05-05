@@ -14,7 +14,7 @@ Open up the repo in your favorite editor.
 
 ### Navigate to the Simulator
 
-The simulator is where you'll practice connecting and controlling the roombot. Simulator: http://roombots.riesd.com/simulations/0FtkPQ==?maze=empty 
+The simulator is where you'll practice connecting and controlling the roombot. Select the simulator of your choice: http://roombots.riesd.com/simulations
 
 ### Connect your app to the simulator
 
