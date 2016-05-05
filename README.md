@@ -39,4 +39,4 @@ You should be ready to run the app and connect to the simulator. For the node ap
 
 Start experimenting by responding to messages from your Roombot simulator's sensors, and sending it different types of drive messages. 
 
-If you want to check out more about the Roombots, you can check out the official docs: http://roombots.mx.com/ 
+If you want to learn more about the Roombots, you can check out the official docs: http://roombots.mx.com/ 
