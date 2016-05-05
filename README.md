@@ -4,7 +4,7 @@ Tonight We're going to be writing javascript to control roombots. :robot_face:  
 
 ### Clone down the Repos 
 
-There is a node based repo and a browser based repo. In these instructions I'll be referencing the node version, but both are pretty similar. Clone down the repo of your choice. If you use the node version, make sure you have node installed on your machine. 
+There is a node based repo and a browser based repo. In these instructions I'll be referencing the node version, but both are pretty similar. Clone down the repo of your choice. If you use the node version, make sure you have node installed on your machine.
 
 Node Repo: https://github.com/paniclater/node_roombot
 
@@ -35,5 +35,7 @@ If you're using the Node Repo, run `npm install`. Copy and paste the IP and chan
 
 You should be ready to run the app and connect to the simulator. For the node app, run `node app.js` in your CLI. You should see two messages: `WebSocket Client Connected` and `Heart Beating`. If you see those messages, check out the simulator. The Roombot will be spinning in a circle. 
 
-### You're good to go - start experimenting by responding to messages from your Roombot simulator's sensors, and sending it different types of drive messages. 
+### You're Good to Go 
+
+Start experimenting by responding to messages from your Roombot simulator's sensors, and sending it different types of drive messages. 
 
