@@ -43,6 +43,6 @@ Now that you can drive, see if you can respond to sensor messages and react to t
 
 ### Example
 
-As an example to help you get started, here is what I put in my code. You can see I'm logging out the messages, and I've sett the radius to 0 so the roombot drives straight. Run the app, and watch in your CLI what happens when the roombot gets close to the wall - you'll start to get different types of messages as different sensors fire. 
+As an example to help you get started, here is what I put in my code. You can see I'm logging out the messages, and I've set the radius to 0 so the roombot drives straight. Run the app, and watch in your CLI what happens when the roombot gets close to the wall - you'll start to get different types of messages as different sensors fire. 
 
 ![example code](https://raw.githubusercontent.com/lukeschunk/roombots_meetup_instructions/master/Screen%20Shot%202016-05-05%20at%2010.20.11%20AM.png)
