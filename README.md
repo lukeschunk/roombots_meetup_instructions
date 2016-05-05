@@ -33,7 +33,7 @@ If you're using the Node Repo, run `npm install`. Copy and paste the IP and chan
 
 ### Run the App 
 
-You should be ready to run the app and connect to the simulator. For the node app, run `node app.js` in your CLI. You should see two messages: `WebSocket Client Connected` and `Heart Beating`. If you see those messages, check out the simulator. The Roombot will be spinning in a circle. 
+You should be ready to run the app and connect to the simulator. For the node app, run `node app.js` in your CLI. You should see two messages: `WebSocket Client Connected` and `Heart Beating`. If you see those messages, check out the simulator. The Roombot will be spinning in a circle. It's alive!
 
 ### You're Good to Go 
 
