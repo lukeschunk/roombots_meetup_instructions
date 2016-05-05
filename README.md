@@ -18,7 +18,22 @@ The simulator is where you'll practice connecting and controlling the roombot. S
 
 ### Connect your app to the simulator
 
-If you're using the Node Repo, run `npm install`. Copy and paste the IP and channel from the simulator to your app. 
+If you're using the Node Repo, run `npm install`. Copy and paste the IP and channel from the simulator to your app. See the screenshot below for example of where to find the channel and IP. 
 
-#### Simulator Channel & IP 
+![simulator channel and ip](https://raw.githubusercontent.com/lukeschunk/roombots_meetup_instructions/master/Screen%20Shot%202016-05-05%20at%209.51.51%20AM.png)
+
+
+
+##### Once you copy and paste the channel and IP into `app.js` (for the browser based repo it will be `index.html`), you should have something that looks like this: 
+
+
+
+![App Example](https://raw.githubusercontent.com/lukeschunk/roombots_meetup_instructions/master/Screen%20Shot%202016-05-05%20at%209.51.27%20AM.png)
+
+
+### Run the App 
+
+You should be ready to run the app and connect to the simulator. For the node app, run `node app.js` in your CLI. You should see two messages: `WebSocket Client Connected` and `Heart Beating`. If you see those messages, check out the simulator. The Roombot will be spinning in a circle. 
+
+### You're good to go - start experimenting by responding to messages from your Roombot simulator's sensors, and sending it different types of drive messages. 
 
